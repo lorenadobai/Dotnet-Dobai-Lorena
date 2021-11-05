@@ -1,0 +1,16 @@
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\bin\Debug\net5.0\Dobai-Lorena.exe
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\bin\Debug\net5.0\Dobai-Lorena.deps.json
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\bin\Debug\net5.0\Dobai-Lorena.runtimeconfig.json
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\bin\Debug\net5.0\Dobai-Lorena.runtimeconfig.dev.json
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\bin\Debug\net5.0\Dobai-Lorena.dll
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\bin\Debug\net5.0\ref\Dobai-Lorena.dll
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\bin\Debug\net5.0\Dobai-Lorena.pdb
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.csproj.AssemblyReference.cache
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.AssemblyInfoInputs.cache
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.AssemblyInfo.cs
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.csproj.CoreCompileInputs.cache
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.dll
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\ref\Dobai-Lorena.dll
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.pdb
+C:\Users\Lorena\Desktop\ch2-c#\Dobai-Lorena\Dobai-Lorena\obj\Debug\net5.0\Dobai-Lorena.genruntimeconfig.cache
