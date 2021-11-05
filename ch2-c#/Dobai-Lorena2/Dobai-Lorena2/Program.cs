@@ -26,6 +26,9 @@ namespace Dobai_Lorena2
             // Console.WriteLine(a);
             //Int32 x = 5;
             //string x = "caleb";
+            int x = (int)5.9999999;
+            double y = 5;
+            Console.WriteLine(x);
         }
         /*static void Test(int[] a)
         {
