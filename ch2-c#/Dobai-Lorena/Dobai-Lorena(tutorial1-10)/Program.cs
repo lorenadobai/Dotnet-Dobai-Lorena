@@ -7,42 +7,35 @@ namespace Dobai_Lorena //used for organization
     {
         static void Main(string[] args) //a method-contains a block of code
         {
-            //Program myProgram = new Program();
-            //myProgram.Print();
+            Program myProgram = new Program();
+            myProgram.Print();
             //Console.WriteLine(args[0]);
-            string name= Console.ReadLine();
+            var name= Console.ReadLine();
             // Console.WriteLine("hello "+name+"!");
             Console.WriteLine($"Hello {name}!");
             Console.WriteLine("yo");
-            //int x = -5; //declaration initialization
+            int x = -5; //declaration initialization
             // int X = 50;
             //var y = "hello";
             //string x = "caleb";
             // Console.WriteLine(x+" is weird.");
-            //int? y=null; //declaration
+            int? y=null; //declaration
             //y = 5; //initialization
-            //Console.WriteLine(y);
-            /*uint b = 5;
+            Console.WriteLine(y);
+            uint b = 5;
             char c = 'c';
             float d = 5.5F;
             double e = 5.5;
             decimal f = 5.5M;//precizie exacta (ex:cand lucrezi cu money)
             bool g = true;
-            string h = "hello";*/
-            int a = -5;
-            int b = a;
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            b = 10;
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            string h = "hello";
         }
-        /*void Print()
+        void Print()
         {
             Console.WriteLine("hey");
             Console.WriteLine("Hello World!"); //statement
             Console.WriteLine("Best friend!");
-        }*/
+        }
     }
 }
 //create the method->invoke the method
