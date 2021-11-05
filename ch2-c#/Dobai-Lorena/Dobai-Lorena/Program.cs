@@ -14,11 +14,21 @@ namespace Dobai_Lorena //used for organization
             // Console.WriteLine("hello "+name+"!");
             Console.WriteLine($"Hello {name}!");
             Console.WriteLine("yo");
-            //int x = 5;
+            int x = -5; //declaration initialization
             // int X = 50;
             //var y = "hello";
-            string x = "caleb";
-            Console.WriteLine(x+" is weird.");
+            //string x = "caleb";
+            // Console.WriteLine(x+" is weird.");
+            int? y=null; //declaration
+            //y = 5; //initialization
+            Console.WriteLine(y);
+            uint b = 5;
+            char c = 'c';
+            float d = 5.5F;
+            double e = 5.5;
+            decimal f = 5.5M;//precizie exacta (ex:cand lucrezi cu money)
+            bool g = true;
+            string h = "hello";
         }
         void Print()
         {
@@ -35,3 +45,4 @@ namespace Dobai_Lorena //used for organization
 //expression- evaluates to a value
 //operator-it workd on operands
 //operand-the things that the operator works on
+//'C'-character, "C"-string
